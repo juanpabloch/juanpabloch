@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @juanpabloch
+- 👀 I’m interested in web development with Pyhon, Django
+- 📫 How to reach me juanpablochoter@gmail.com
